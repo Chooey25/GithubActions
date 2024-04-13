@@ -1,4 +1,4 @@
-[![Run App JacksonBeaudette](https://github.com/Chooey25/GithubActions/actions/workflows/run-app.yaml/badge.svg?branch=master)](https://github.com/Chooey25/GithubActions/actions/workflows/run-app.yaml)(https://github.com/kgerot/GithubActions/actions/workflows/run-app.yaml)
+[![Run App JacksonBeaudette](https://github.com/Chooey25/GithubActions/actions/workflows/run-app.yaml/badge.svg)](https://github.com/Chooey25/GithubActions/actions/workflows/run-app.yaml)
 
 # Do not submit a pull request to `kgerot/GithubActions` or `dteske/TraviCI`. Not following this instruction can ruin the lab for others, so pay attention.
 
